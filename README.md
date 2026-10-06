@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @ManojP001
-- 👀 I’m interested in software...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there, I'm Manoj Pattanshetty 👋
 
-<!---
-ManojP001/ManojP001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Aspiring VLSI RTL Design & Verification Engineer**  
+📍 Bangalore, India | 🎓 B.E. Mechatronics Engineering (8.5 CGPA)
+
+- 🔬 **Core Focus:** Digital Design, RTL Architecture, SystemVerilog/Verilog HDL, Computer Architecture.
+- 💻 **Featured Project:** 32-Bit Single-Cycle RISC-V (RV32I) Processor Core.
+- ⚡ **Domain Skills:** Finite State Machines (FSM), Static Timing Analysis (STA), Clock Domain Crossing (CDC), Bus Protocols (APB, AXI4-Lite).
+- 📫 **Contact:** Email: manojpshetty07@gmail.com
